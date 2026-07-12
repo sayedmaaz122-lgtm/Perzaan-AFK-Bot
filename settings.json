@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "XenoDimensionals.aternos.me",
+    "port": 33114,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
